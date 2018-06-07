@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SegundoEntregable</string>
+    <string name="recetas">Recetas</string>
+    <string name="about_us">About us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_recetas_fragment">Hello recetas fragment</string>
+    <string name="hello_aboutus_fragment">Hello about us fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
